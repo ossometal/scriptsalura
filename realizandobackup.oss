@@ -1,2 +1,2 @@
-zip backup.zip -r ~/workspace/
-echo "Backup realizado com sucesso"
+zip backup.zip -r ~/Scripts/
+echo "Backup de Scripts realizado com sucesso"

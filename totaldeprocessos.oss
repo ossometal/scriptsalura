@@ -1,0 +1,2 @@
+echo "Numero de processos rodando:"
+ps -e | wc -l 
